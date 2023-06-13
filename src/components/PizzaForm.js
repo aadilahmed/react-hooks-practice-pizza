@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 function PizzaForm({ pizza, onEditPizza, onChangeForm }) {
   function handleInputChange(event) {
